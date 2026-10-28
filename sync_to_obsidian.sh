@@ -38,3 +38,5 @@ echo "To open directly in Obsidian, use this command in Termux:"
 echo "am start -a android.intent.action.VIEW -d 'obsidian://open?vault=Obsidian&file=Termux_Sync'"
 # Optional: Automatically open Obsidian (uncomment if desired)
 # am start -a android.intent.action.VIEW -d "obsidian://open?vault=Obsidian&file=Termux_Sync"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=sync_to_obsidian.sh
